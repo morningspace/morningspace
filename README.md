@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-At any time, you can find out more about me by visiting my website at [morningspace.github.io](https://morningspace.github.io).
+At any time, you can find out more about me by visiting:
+* [morningspace.github.io](https://morningspace.github.io).
+* [morningspace.medium.com](https://morningspace.medium.com/)
+* [linkedin](https://www.linkedin.com/in/mo-ying-17b04016)
 
 [![MorningSpace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morningspace&count_private=true&showicons=true)]()
 [![MorningSpace's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=morningspace&langs_count=3)]()
