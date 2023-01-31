@@ -7,6 +7,8 @@ At any time, you can find out more about me by visiting:
 
 [![MorningSpace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morningspace&count_private=true&showicons=true)]()
 [![MorningSpace's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=morningspace&langs_count=3)]()
+[![Crossplane Kubernetes Provider](https://github-readme-stats.vercel.app/api/pin/?username=crossplane-contrib&repo=provider-kubernetes)](https://github.com/crossplane-contrib/provider-kubernetes)
+[![Crossplane Ansible Provider](https://github-readme-stats.vercel.app/api/pin/?username=crossplane-contrib&repo=provider-ansible)](https://github.com/crossplane-contrib/provider-ansible)
 [![KubeAssert](https://github-readme-stats.vercel.app/api/pin/?username=morningspace&repo=kubeassert)](https://github.com/morningspace/kubeassert)
 [![KubeMacro](https://github-readme-stats.vercel.app/api/pin/?username=morningspace&repo=kubemacro)](https://github.com/morningspace/kubemacro)
 [![Enhanced OpenShift CLI](https://github-readme-stats.vercel.app/api/pin/?username=morningspace&repo=oc)](https://github.com/morningspace/oc)
